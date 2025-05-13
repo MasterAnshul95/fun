@@ -6,3 +6,11 @@ this is to upload filr from local to gitHub server
 ----- git init 
 ----- git add .
 ----- git commit -m "message"
+----- git log -oneline 
+
+///   now to push that 
+git remote -v
+git remote add origin https url 
+git push origin main
+
+Above is done to push code from vs code to github server 
