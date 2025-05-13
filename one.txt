@@ -12,5 +12,16 @@ this is to upload filr from local to gitHub server
 git remote -v
 git remote add origin https url 
 git push origin main
+better to write to u so that when next time we want to push we can just do that with ---(git push)
+--- git push -u origin main
+
+
+
+Again id edit is done then 
+git add file name 
+git commit -m "message"
+git push 
+
+Done
 
 Above is done to push code from vs code to github server 
